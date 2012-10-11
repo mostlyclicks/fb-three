@@ -8,6 +8,7 @@ gem 'rails', '3.2.8'
 gem 'pg'
 gem 'heroku'
 gem 'unicorn'
+gem 'koala'
 
 
 # Gems used only for assets and not required
